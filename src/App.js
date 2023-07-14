@@ -1,5 +1,11 @@
+import Header from './Components/Header';
+
 const App = () => {
-	return <h1>MaraData's Designs</h1>;
+	return (
+		<>
+			<Header />
+		</>
+	);
 };
 
 export default App;
